@@ -1,0 +1,10 @@
+{
+    "ENV": "DEV",
+    "IDENTITY_POOL_ID": "eu-west-1:903162a6-4922-475c-bdd0-8d4ab3d6cc16",
+    "USER_POOL_ID": "eu-west-1_iOYDlZbWx",
+    "USER_POOL_WEB_CLIENT_ID": "sp1vqgeha050ctkv8dgf7olf7",
+    "NAME": "Market-Admin",
+    "ENDPOINT": "https://umrifq58th.execute-api.eu-west-1.amazonaws.com/dev",
+    "BUCKET": "relife-market-storage-dev",
+    "REGION": "eu-west-1"
+}
