@@ -5,6 +5,7 @@
     "USER_POOL_WEB_CLIENT_ID": "",
     "NAME": "",
     "ENDPOINT": "",
+    "APP_ID": "",
     "BUCKET": "",
     "REGION": ""
 }
